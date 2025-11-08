@@ -25,7 +25,7 @@ Spaceship es un juego hecho con PyGame. Controlas una nave triangular que debe e
 - `pause()` y `game_over()` — pantallas auxiliares.
 
 ## Cómo ejecutar
-1. Guarda `space_dodger_simple.py` en una carpeta.
+1. Guarda `spaceship.py` en una carpeta.
 2. Instala PyGame:
    ```bash
    pip install pygame
